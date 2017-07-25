@@ -1,0 +1,1969 @@
+<?xml version="1.0" standalone="yes"?>
+<Dataset1 xmlns="http://tempuri.org/Dataset1.xsd">
+  <Foils>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>FO/001</SupplierDescription>
+    <Description>Copper Foil</Description>
+    <StockNumber>100-001</StockNumber>
+    <CuThickness>17.78</CuThickness>
+    <Type>Copper</Type>
+    <Cost>1</Cost>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>0</ID>
+  </Foils>
+  <Foils>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>FO/002</SupplierDescription>
+    <Description>Copper Foil</Description>
+    <StockNumber>100-002</StockNumber>
+    <CuThickness>35.56</CuThickness>
+    <Type>Copper</Type>
+    <Cost>2</Cost>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>1</ID>
+  </Foils>
+  <Foils>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>FO/003</SupplierDescription>
+    <Description>Copper Foil</Description>
+    <StockNumber>100-003</StockNumber>
+    <CuThickness>71.12</CuThickness>
+    <Type>Copper</Type>
+    <Cost>3</Cost>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 xml:space="preserve"> </Note1>
+    <Note2 xml:space="preserve"> </Note2>
+    <Note3 xml:space="preserve"> </Note3>
+    <Note4 xml:space="preserve"> </Note4>
+    <Note5 xml:space="preserve"> </Note5>
+    <Size>*</Size>
+    <ID>2</ID>
+  </Foils>
+  <RCC>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>RCC/001</SupplierDescription>
+    <Description>Resin Coated Copper</Description>
+    <StockNumber>200-001</StockNumber>
+    <BaseThickness>50.8</BaseThickness>
+    <FinishedThickness>50.8</FinishedThickness>
+    <DielectricConstant>4</DielectricConstant>
+    <CuThickness>17.78</CuThickness>
+    <ResinContent>74</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>RCC</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>0</ID>
+  </RCC>
+  <RCC>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>RCC/002</SupplierDescription>
+    <Description>Resin Coated Copper</Description>
+    <StockNumber>200-002</StockNumber>
+    <BaseThickness>50.8</BaseThickness>
+    <FinishedThickness>50.8</FinishedThickness>
+    <DielectricConstant>4</DielectricConstant>
+    <CuThickness>35.56</CuThickness>
+    <ResinContent>74</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>RCC</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>1</ID>
+  </RCC>
+  <RCC>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>RCC/003</SupplierDescription>
+    <Description>Resin Coated Copper</Description>
+    <StockNumber>200-003</StockNumber>
+    <BaseThickness>101.6</BaseThickness>
+    <FinishedThickness>101.6</FinishedThickness>
+    <DielectricConstant>4</DielectricConstant>
+    <CuThickness>17.78</CuThickness>
+    <ResinContent>53</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>RCC</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>2</ID>
+  </RCC>
+  <RCC>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>RCC/004</SupplierDescription>
+    <Description>Resin Coated Copper</Description>
+    <StockNumber>200-004</StockNumber>
+    <BaseThickness>101.6</BaseThickness>
+    <FinishedThickness>101.6</FinishedThickness>
+    <DielectricConstant>4</DielectricConstant>
+    <CuThickness>35.56</CuThickness>
+    <ResinContent>53</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>RCC</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>3</ID>
+  </RCC>
+  <PrePreg>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>PP/001</SupplierDescription>
+    <Description>PrePreg 1080</Description>
+    <StockNumber>300-001</StockNumber>
+    <BaseThickness>76.2</BaseThickness>
+    <FinishedThickness>76.2</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <ResinContent>60</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>Dielectric</Type>
+    <Cost>1</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>0</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>PP/002</SupplierDescription>
+    <Description>PrePreg 3080</Description>
+    <StockNumber>300-002</StockNumber>
+    <BaseThickness>76.2</BaseThickness>
+    <FinishedThickness>76.2</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <ResinContent>60</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>Dielectric</Type>
+    <Cost>2</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>1</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>PP/003</SupplierDescription>
+    <Description>PrePreg 3113</Description>
+    <StockNumber>300-003</StockNumber>
+    <BaseThickness>101.6</BaseThickness>
+    <FinishedThickness>101.6</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <ResinContent>53</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>Dielectric</Type>
+    <Cost>3</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>2</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>PP/004</SupplierDescription>
+    <Description>PrePreg 1651</Description>
+    <StockNumber>300-004</StockNumber>
+    <BaseThickness>152.4</BaseThickness>
+    <FinishedThickness>152.4</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <ResinContent>47</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>Dielectric</Type>
+    <Cost>4</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>3</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>PP/005</SupplierDescription>
+    <Description>PrePreg 7628</Description>
+    <StockNumber>300-005</StockNumber>
+    <BaseThickness>200.66</BaseThickness>
+    <FinishedThickness>200.66</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <ResinContent>45</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>Dielectric</Type>
+    <Cost>5</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>false</Outer>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>4</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>PP/006</SupplierDescription>
+    <Description>PrePreg 106</Description>
+    <StockNumber>300-006</StockNumber>
+    <BaseThickness>50.8</BaseThickness>
+    <FinishedThickness>50.8</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <ResinContent>60</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>Dielectric</Type>
+    <Cost>2</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>5</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Isola</Supplier>
+    <SupplierDescription>FR408</SupplierDescription>
+    <Description>FR408 Prepreg</Description>
+    <StockNumber>FR408 4mil</StockNumber>
+    <BaseThickness>101.6</BaseThickness>
+    <FinishedThickness>101.6</FinishedThickness>
+    <DielectricConstant>3.67</DielectricConstant>
+    <ResinContent>0</ResinContent>
+    <Tg>180</Tg>
+    <Td>360</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>Dielectric</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 xml:space="preserve"> </Note1>
+    <Note2 xml:space="preserve"> </Note2>
+    <Note3 xml:space="preserve"> </Note3>
+    <Note4 xml:space="preserve"> </Note4>
+    <Note5 xml:space="preserve"> </Note5>
+    <Size>*</Size>
+    <ID>6</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Isola</Supplier>
+    <SupplierDescription>FR406</SupplierDescription>
+    <Description>FR406 Prepreg</Description>
+    <StockNumber>FR406 4mil</StockNumber>
+    <BaseThickness>101.6</BaseThickness>
+    <FinishedThickness>101.6</FinishedThickness>
+    <DielectricConstant>3.93</DielectricConstant>
+    <ResinContent>0</ResinContent>
+    <Tg>170</Tg>
+    <Td>300</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>Dielectric</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 xml:space="preserve"> </Note1>
+    <Note2 xml:space="preserve"> </Note2>
+    <Note3 xml:space="preserve"> </Note3>
+    <Note4 xml:space="preserve"> </Note4>
+    <Note5 xml:space="preserve"> </Note5>
+    <Size>*</Size>
+    <ID>7</ID>
+  </PrePreg>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/001</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-001</StockNumber>
+    <BaseThickness>50.8</BaseThickness>
+    <FinishedThickness>50.8</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>17.78</UpperCuThickness>
+    <LowerCuThickness>17.78</LowerCuThickness>
+    <ResinContent>75</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>1</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>true</PlanesBothSides>
+    <Size>*</Size>
+    <ID>0</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/002</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-002</StockNumber>
+    <BaseThickness>50.8</BaseThickness>
+    <FinishedThickness>50.8</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>35.56</UpperCuThickness>
+    <LowerCuThickness>35.56</LowerCuThickness>
+    <ResinContent>75</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>2</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>true</PlanesBothSides>
+    <Size>*</Size>
+    <ID>1</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/003</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-003</StockNumber>
+    <BaseThickness>50.8</BaseThickness>
+    <FinishedThickness>50.8</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>71.12</UpperCuThickness>
+    <LowerCuThickness>71.12</LowerCuThickness>
+    <ResinContent>75</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>3</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>true</PlanesBothSides>
+    <Size>*</Size>
+    <ID>2</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/004</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-004</StockNumber>
+    <BaseThickness>76.2</BaseThickness>
+    <FinishedThickness>76.2</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>17.78</UpperCuThickness>
+    <LowerCuThickness>17.78</LowerCuThickness>
+    <ResinContent>60</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>4</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>3</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/005</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-005</StockNumber>
+    <BaseThickness>76.2</BaseThickness>
+    <FinishedThickness>76.2</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>35.56</UpperCuThickness>
+    <LowerCuThickness>35.56</LowerCuThickness>
+    <ResinContent>60</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>5</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>4</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/006</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-006</StockNumber>
+    <BaseThickness>76.2</BaseThickness>
+    <FinishedThickness>76.2</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>71.12</UpperCuThickness>
+    <LowerCuThickness>71.12</LowerCuThickness>
+    <ResinContent>60</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>6</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>5</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/007</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-007</StockNumber>
+    <BaseThickness>101.6</BaseThickness>
+    <FinishedThickness>101.6</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>17.78</UpperCuThickness>
+    <LowerCuThickness>17.78</LowerCuThickness>
+    <ResinContent>53</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>7</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>6</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/008</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-008</StockNumber>
+    <BaseThickness>101.6</BaseThickness>
+    <FinishedThickness>101.6</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>35.56</UpperCuThickness>
+    <LowerCuThickness>35.56</LowerCuThickness>
+    <ResinContent>53</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>8</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>7</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/009</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-009</StockNumber>
+    <BaseThickness>101.6</BaseThickness>
+    <FinishedThickness>101.6</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>71.12</UpperCuThickness>
+    <LowerCuThickness>71.12</LowerCuThickness>
+    <ResinContent>53</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>9</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>8</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/010</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-010</StockNumber>
+    <BaseThickness>127</BaseThickness>
+    <FinishedThickness>127</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>17.78</UpperCuThickness>
+    <LowerCuThickness>17.78</LowerCuThickness>
+    <ResinContent>50</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>10</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>9</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/011</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-011</StockNumber>
+    <BaseThickness>127</BaseThickness>
+    <FinishedThickness>127</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>35.56</UpperCuThickness>
+    <LowerCuThickness>35.56</LowerCuThickness>
+    <ResinContent>50</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>11</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>10</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/012</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-012</StockNumber>
+    <BaseThickness>127</BaseThickness>
+    <FinishedThickness>127</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>71.12</UpperCuThickness>
+    <LowerCuThickness>71.12</LowerCuThickness>
+    <ResinContent>50</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>12</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>11</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/013</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-013</StockNumber>
+    <BaseThickness>152.4</BaseThickness>
+    <FinishedThickness>152.4</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>17.78</UpperCuThickness>
+    <LowerCuThickness>17.78</LowerCuThickness>
+    <ResinContent>47</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>13</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>12</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/014</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-014</StockNumber>
+    <BaseThickness>152.4</BaseThickness>
+    <FinishedThickness>152.4</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>35.56</UpperCuThickness>
+    <LowerCuThickness>35.56</LowerCuThickness>
+    <ResinContent>47</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>14</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>13</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/015</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-015</StockNumber>
+    <BaseThickness>152.4</BaseThickness>
+    <FinishedThickness>152.4</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>71.12</UpperCuThickness>
+    <LowerCuThickness>71.12</LowerCuThickness>
+    <ResinContent>47</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>15</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>14</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/016</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-016</StockNumber>
+    <BaseThickness>203.2</BaseThickness>
+    <FinishedThickness>203.2</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>17.78</UpperCuThickness>
+    <LowerCuThickness>17.78</LowerCuThickness>
+    <ResinContent>45</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>16</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 xml:space="preserve"> </Note1>
+    <Note2 xml:space="preserve"> </Note2>
+    <Note3 xml:space="preserve"> </Note3>
+    <Note4 xml:space="preserve"> </Note4>
+    <Note5 xml:space="preserve"> </Note5>
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>15</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/017</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-017</StockNumber>
+    <BaseThickness>203.2</BaseThickness>
+    <FinishedThickness>203.2</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>35.56</UpperCuThickness>
+    <LowerCuThickness>35.56</LowerCuThickness>
+    <ResinContent>45</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>17</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>16</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/018</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-018</StockNumber>
+    <BaseThickness>203.2</BaseThickness>
+    <FinishedThickness>203.2</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>71.12</UpperCuThickness>
+    <LowerCuThickness>71.12</LowerCuThickness>
+    <ResinContent>45</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>18</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>17</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/019</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-019</StockNumber>
+    <BaseThickness>304.8</BaseThickness>
+    <FinishedThickness>304.8</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>17.78</UpperCuThickness>
+    <LowerCuThickness>17.78</LowerCuThickness>
+    <ResinContent>46</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>19</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 xml:space="preserve"> </Note1>
+    <Note2 xml:space="preserve"> </Note2>
+    <Note3 xml:space="preserve"> </Note3>
+    <Note4 xml:space="preserve"> </Note4>
+    <Note5 xml:space="preserve"> </Note5>
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>18</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/020</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-020</StockNumber>
+    <BaseThickness>304.8</BaseThickness>
+    <FinishedThickness>304.8</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>35.56</UpperCuThickness>
+    <LowerCuThickness>35.56</LowerCuThickness>
+    <ResinContent>46</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>20</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>19</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/021</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-021</StockNumber>
+    <BaseThickness>304.8</BaseThickness>
+    <FinishedThickness>304.8</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>71.12</UpperCuThickness>
+    <LowerCuThickness>71.12</LowerCuThickness>
+    <ResinContent>46</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>21</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 xml:space="preserve"> </Note1>
+    <Note2 xml:space="preserve"> </Note2>
+    <Note3 xml:space="preserve"> </Note3>
+    <Note4 xml:space="preserve"> </Note4>
+    <Note5 xml:space="preserve"> </Note5>
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>20</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/022</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-022</StockNumber>
+    <BaseThickness>533.4</BaseThickness>
+    <FinishedThickness>533.4</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>17.78</UpperCuThickness>
+    <LowerCuThickness>17.78</LowerCuThickness>
+    <ResinContent>41</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>22</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>21</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/023</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-023</StockNumber>
+    <BaseThickness>533.4</BaseThickness>
+    <FinishedThickness>533.4</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>35.56</UpperCuThickness>
+    <LowerCuThickness>35.56</LowerCuThickness>
+    <ResinContent>41</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>23</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>22</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/024</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-024</StockNumber>
+    <BaseThickness>533.4</BaseThickness>
+    <FinishedThickness>533.4</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>71.12</UpperCuThickness>
+    <LowerCuThickness>71.12</LowerCuThickness>
+    <ResinContent>41</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>24</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>23</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/025</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-025</StockNumber>
+    <BaseThickness>990.6</BaseThickness>
+    <FinishedThickness>990.6</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>17.78</UpperCuThickness>
+    <LowerCuThickness>17.78</LowerCuThickness>
+    <ResinContent>45</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>25</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>24</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/026</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-026</StockNumber>
+    <BaseThickness>990.6</BaseThickness>
+    <FinishedThickness>990.6</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>35.56</UpperCuThickness>
+    <LowerCuThickness>35.56</LowerCuThickness>
+    <ResinContent>45</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>26</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>25</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/027</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-027</StockNumber>
+    <BaseThickness>990.6</BaseThickness>
+    <FinishedThickness>990.6</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>71.12</UpperCuThickness>
+    <LowerCuThickness>71.12</LowerCuThickness>
+    <ResinContent>45</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>27</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>26</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/026</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-028</StockNumber>
+    <BaseThickness>990.6</BaseThickness>
+    <FinishedThickness>990.6</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>17.78</UpperCuThickness>
+    <LowerCuThickness>35.56</LowerCuThickness>
+    <ResinContent>45</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>28</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>27</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/026</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-029</StockNumber>
+    <BaseThickness>990.6</BaseThickness>
+    <FinishedThickness>990.6</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>17.78</UpperCuThickness>
+    <LowerCuThickness>0</LowerCuThickness>
+    <ResinContent>45</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>29</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>28</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>CO/014</SupplierDescription>
+    <Description>FR4 Core</Description>
+    <StockNumber>400-014</StockNumber>
+    <BaseThickness>152.4</BaseThickness>
+    <FinishedThickness>152.4</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>17.78</UpperCuThickness>
+    <LowerCuThickness>35.56</LowerCuThickness>
+    <ResinContent>47</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>14</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>29</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Rogers Corporation</Supplier>
+    <SupplierDescription>RO4003C</SupplierDescription>
+    <Description>RO4003C</Description>
+    <StockNumber>RO4003C 10mil</StockNumber>
+    <BaseThickness>203.2</BaseThickness>
+    <FinishedThickness>203.2</FinishedThickness>
+    <DielectricConstant>3.55</DielectricConstant>
+    <UpperCuThickness>35.56</UpperCuThickness>
+    <LowerCuThickness>35.56</LowerCuThickness>
+    <ResinContent>0</ResinContent>
+    <Tg>280</Tg>
+    <Td>425</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type xml:space="preserve"> </Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 xml:space="preserve"> </Note1>
+    <Note2 xml:space="preserve"> </Note2>
+    <Note3 xml:space="preserve"> </Note3>
+    <Note4 xml:space="preserve"> </Note4>
+    <Note5 xml:space="preserve"> </Note5>
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>30</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Isola</Supplier>
+    <SupplierDescription>FR408</SupplierDescription>
+    <Description>FR408</Description>
+    <StockNumber>FR408 39mil</StockNumber>
+    <BaseThickness>990.6</BaseThickness>
+    <FinishedThickness>990.6</FinishedThickness>
+    <DielectricConstant>3.67</DielectricConstant>
+    <UpperCuThickness>35.56</UpperCuThickness>
+    <LowerCuThickness>35.56</LowerCuThickness>
+    <ResinContent>0</ResinContent>
+    <Tg>180</Tg>
+    <Td>360</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type xml:space="preserve"> </Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 xml:space="preserve"> </Note1>
+    <Note2 xml:space="preserve"> </Note2>
+    <Note3 xml:space="preserve"> </Note3>
+    <Note4 xml:space="preserve"> </Note4>
+    <Note5 xml:space="preserve"> </Note5>
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>31</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Isola</Supplier>
+    <SupplierDescription>FR406</SupplierDescription>
+    <Description>FR406</Description>
+    <StockNumber>FR406 39mil</StockNumber>
+    <BaseThickness>990.6</BaseThickness>
+    <FinishedThickness>990.6</FinishedThickness>
+    <DielectricConstant>3.93</DielectricConstant>
+    <UpperCuThickness>35.56</UpperCuThickness>
+    <LowerCuThickness>35.56</LowerCuThickness>
+    <ResinContent>0</ResinContent>
+    <Tg>170</Tg>
+    <Td>300</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type xml:space="preserve"> </Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 xml:space="preserve"> </Note1>
+    <Note2 xml:space="preserve"> </Note2>
+    <Note3 xml:space="preserve"> </Note3>
+    <Note4 xml:space="preserve"> </Note4>
+    <Note5 xml:space="preserve"> </Note5>
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>32</ID>
+  </Cores>
+  <SolderMasks>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>SM/001</SupplierDescription>
+    <Description>Liquid PhotoImageable Mask</Description>
+    <StockNumber>500-001</StockNumber>
+    <MaskThickness>25.4</MaskThickness>
+    <DielectricConstant>4</DielectricConstant>
+    <Colour>Green</Colour>
+    <Type>SolderMask</Type>
+    <Cost>0.5</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>0</ID>
+  </SolderMasks>
+  <SolderMasks>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>SM/002</SupplierDescription>
+    <Description>Liquid PhotoImageable Mask</Description>
+    <StockNumber>500-002</StockNumber>
+    <MaskThickness>25.4</MaskThickness>
+    <DielectricConstant>4</DielectricConstant>
+    <Colour>Green</Colour>
+    <Type>SolderMask</Type>
+    <Cost>0.6</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>1</ID>
+  </SolderMasks>
+  <SolderMasks>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>SM/003</SupplierDescription>
+    <Description>Liquid PhotoImageable Mask</Description>
+    <StockNumber>500-003</StockNumber>
+    <MaskThickness>25.4</MaskThickness>
+    <DielectricConstant>4</DielectricConstant>
+    <Colour>Blue</Colour>
+    <Type>SolderMask</Type>
+    <Cost>0.6</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>2</ID>
+  </SolderMasks>
+  <SolderMasks>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>SM/004</SupplierDescription>
+    <Description>Liquid PhotoImageable Mask</Description>
+    <StockNumber>500-004</StockNumber>
+    <MaskThickness>25.4</MaskThickness>
+    <DielectricConstant>4</DielectricConstant>
+    <Colour>Red</Colour>
+    <Type>SolderMask</Type>
+    <Cost>1</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>1</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>3</ID>
+  </SolderMasks>
+  <Idents>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>ID/001</SupplierDescription>
+    <Description>Screened Ident</Description>
+    <StockNumber>600-001</StockNumber>
+    <InkThickness>50.8</InkThickness>
+    <Colour>White</Colour>
+    <Type>Ident</Type>
+    <Cost>0.1</Cost>
+    <Tolerance>0</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>0</ID>
+  </Idents>
+  <Idents>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>ID/002</SupplierDescription>
+    <Description>Screened Ident</Description>
+    <StockNumber>600-002</StockNumber>
+    <InkThickness>50.8</InkThickness>
+    <Colour>Yellow</Colour>
+    <Type>Ident</Type>
+    <Cost>0.1</Cost>
+    <Tolerance>0</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>1</ID>
+  </Idents>
+  <Idents>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>ID/003</SupplierDescription>
+    <Description>Screened Ident</Description>
+    <StockNumber>600-003</StockNumber>
+    <InkThickness>50.8</InkThickness>
+    <Colour>Black</Colour>
+    <Type>Ident</Type>
+    <Cost>0.1</Cost>
+    <Tolerance>0</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>2</ID>
+  </Idents>
+  <Peelables>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>PE/001</SupplierDescription>
+    <Description>Peelable Mask</Description>
+    <StockNumber>700-001</StockNumber>
+    <InkThickness>203.2</InkThickness>
+    <Colour>Blue</Colour>
+    <Type>Peelable</Type>
+    <Cost>1</Cost>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>0</ID>
+  </Peelables>
+  <Coverlays>
+    <Supplier>Polar Samples </Supplier>
+    <SupplierDescription>Clay/001</SupplierDescription>
+    <Description>Coverlay</Description>
+    <StockNumber>800-001</StockNumber>
+    <BaseThickness>50.8</BaseThickness>
+    <FinishedThickness>50.8</FinishedThickness>
+    <DielectricConstant>3.5</DielectricConstant>
+    <Type>Cover</Type>
+    <Cost>1</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>0</ID>
+  </Coverlays>
+  <Coverlays>
+    <Supplier>Polar Samples </Supplier>
+    <SupplierDescription>Clay/002</SupplierDescription>
+    <Description>Coverlay</Description>
+    <StockNumber>800-002</StockNumber>
+    <BaseThickness>76.2</BaseThickness>
+    <FinishedThickness>76.2</FinishedThickness>
+    <DielectricConstant>3.5</DielectricConstant>
+    <Type>Cover</Type>
+    <Cost>2</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>1</ID>
+  </Coverlays>
+  <Coverlays>
+    <Supplier>Polar Samples </Supplier>
+    <SupplierDescription>Clay/003</SupplierDescription>
+    <Description>Coverlay</Description>
+    <StockNumber>800-003</StockNumber>
+    <BaseThickness>101.6</BaseThickness>
+    <FinishedThickness>101.6</FinishedThickness>
+    <DielectricConstant>3.5</DielectricConstant>
+    <Type>Cover</Type>
+    <Cost>3</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>2</ID>
+  </Coverlays>
+  <Coverlays>
+    <Supplier>Polar Samples </Supplier>
+    <SupplierDescription>Clay/004</SupplierDescription>
+    <Description>Coverlay</Description>
+    <StockNumber>800-004</StockNumber>
+    <BaseThickness>127</BaseThickness>
+    <FinishedThickness>127</FinishedThickness>
+    <DielectricConstant>3.5</DielectricConstant>
+    <Type>Cover</Type>
+    <Cost>4</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>3</ID>
+  </Coverlays>
+  <Coverlays>
+    <Supplier>Polar Samples </Supplier>
+    <SupplierDescription>Clay/005</SupplierDescription>
+    <Description>Coverlay</Description>
+    <StockNumber>800-005</StockNumber>
+    <BaseThickness>152.4</BaseThickness>
+    <FinishedThickness>152.4</FinishedThickness>
+    <DielectricConstant>3.5</DielectricConstant>
+    <Type>Cover</Type>
+    <Cost>5</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>4</ID>
+  </Coverlays>
+  <Coverlays>
+    <Supplier>Polar Samples </Supplier>
+    <SupplierDescription>Clay/006</SupplierDescription>
+    <Description>Coverlay</Description>
+    <StockNumber>800-006</StockNumber>
+    <BaseThickness>177.8</BaseThickness>
+    <FinishedThickness>177.8</FinishedThickness>
+    <DielectricConstant>3.5</DielectricConstant>
+    <Type>Cover</Type>
+    <Cost>6</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>5</ID>
+  </Coverlays>
+  <Coverlays>
+    <Supplier>PolarSamples</Supplier>
+    <SupplierDescription>Clay/007</SupplierDescription>
+    <Description>Coverlay</Description>
+    <StockNumber>800-007</StockNumber>
+    <BaseThickness>203.2</BaseThickness>
+    <FinishedThickness>203.2</FinishedThickness>
+    <DielectricConstant>3.5</DielectricConstant>
+    <Type>Cover</Type>
+    <Cost>7</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>6</ID>
+  </Coverlays>
+  <Coverlays>
+    <Supplier>Polar Samples </Supplier>
+    <SupplierDescription>Clay/008</SupplierDescription>
+    <Description>Coverlay</Description>
+    <StockNumber>800-008</StockNumber>
+    <BaseThickness>228.6</BaseThickness>
+    <FinishedThickness>228.6</FinishedThickness>
+    <DielectricConstant>3.5</DielectricConstant>
+    <Type>Cover</Type>
+    <Cost>8</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>7</ID>
+  </Coverlays>
+  <Coverlays>
+    <Supplier>Polar Samples </Supplier>
+    <SupplierDescription>Clay/009</SupplierDescription>
+    <Description>Coverlay</Description>
+    <StockNumber>800-009</StockNumber>
+    <BaseThickness>254</BaseThickness>
+    <FinishedThickness>254</FinishedThickness>
+    <DielectricConstant>3.5</DielectricConstant>
+    <Type>Cover</Type>
+    <Cost>9</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>8</ID>
+  </Coverlays>
+  <BondPly>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>BP/001</SupplierDescription>
+    <Description>Bondply 2</Description>
+    <StockNumber>400-001</StockNumber>
+    <BaseThickness>50.8</BaseThickness>
+    <FinishedThickness>50.8</FinishedThickness>
+    <DielectricConstant>4</DielectricConstant>
+    <ResinContent>60</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>Dielectric</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1>Free Text</Note1>
+    <Note2>Free Text</Note2>
+    <Note3>Free Text</Note3>
+    <Note4>Free Text</Note4>
+    <Note5>Any Format to denote Panel size</Note5>
+    <Size />
+    <ID>0</ID>
+  </BondPly>
+  <BondPly>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>BP/002</SupplierDescription>
+    <Description>Bondply 3</Description>
+    <StockNumber>400-002</StockNumber>
+    <BaseThickness>76.199999999999989</BaseThickness>
+    <FinishedThickness>76.199999999999989</FinishedThickness>
+    <DielectricConstant>4</DielectricConstant>
+    <ResinContent>60</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>Dielectric</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1>Free Text</Note1>
+    <Note2>Free Text</Note2>
+    <Note3>Free Text</Note3>
+    <Note4>Free Text</Note4>
+    <Note5>Any Format to denote Panel size</Note5>
+    <Size />
+    <ID>1</ID>
+  </BondPly>
+  <BondPly>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>BP/003</SupplierDescription>
+    <Description>Bondply 5</Description>
+    <StockNumber>400-003</StockNumber>
+    <BaseThickness>127</BaseThickness>
+    <FinishedThickness>127</FinishedThickness>
+    <DielectricConstant>4</DielectricConstant>
+    <ResinContent>53</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>Dielectric</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1>Free Text</Note1>
+    <Note2>Free Text</Note2>
+    <Note3>Free Text</Note3>
+    <Note4>Free Text</Note4>
+    <Note5>Any Format to denote Panel size</Note5>
+    <Size />
+    <ID>2</ID>
+  </BondPly>
+  <Adhesive>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>AD/001</SupplierDescription>
+    <Description>Adhesive 1</Description>
+    <StockNumber>500-001</StockNumber>
+    <BaseThickness>25.4</BaseThickness>
+    <FinishedThickness>25.4</FinishedThickness>
+    <DielectricConstant>3.9</DielectricConstant>
+    <ResinContent>0</ResinContent>
+    <Tg>0</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>Dielectric</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1>Free Text</Note1>
+    <Note2>Free Text</Note2>
+    <Note3>Free Text</Note3>
+    <Note4>Free Text</Note4>
+    <Note5>Any Format to denote Panel size</Note5>
+    <Size />
+    <ID>0</ID>
+  </Adhesive>
+  <Adhesive>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>AD/002</SupplierDescription>
+    <Description>Adhesive 2</Description>
+    <StockNumber>500-002</StockNumber>
+    <BaseThickness>50.8</BaseThickness>
+    <FinishedThickness>50.8</FinishedThickness>
+    <DielectricConstant>3.9</DielectricConstant>
+    <ResinContent>0</ResinContent>
+    <Tg>0</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>Dielectric</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1>Free Text</Note1>
+    <Note2>Free Text</Note2>
+    <Note3>Free Text</Note3>
+    <Note4>Free Text</Note4>
+    <Note5>Any Format to denote Panel size</Note5>
+    <Size />
+    <ID>1</ID>
+  </Adhesive>
+  <FlexyCores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>FC/001</SupplierDescription>
+    <Description>Flex Core</Description>
+    <StockNumber>600-001</StockNumber>
+    <BaseThickness>76.199999999999989</BaseThickness>
+    <FinishedThickness>76.199999999999989</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>17.779999999999998</UpperCuThickness>
+    <LowerCuThickness>17.779999999999998</LowerCuThickness>
+    <ResinContent>0</ResinContent>
+    <Tg>100</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>Poly</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1>Free Text</Note1>
+    <Note2>Free Text</Note2>
+    <Note3>Free Text</Note3>
+    <Note4>Free Text</Note4>
+    <Note5>Any Format to denote Panel size</Note5>
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size />
+    <ID>0</ID>
+  </FlexyCores>
+  <FlexyCores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>FC/002</SupplierDescription>
+    <Description>Flex Core</Description>
+    <StockNumber>600-002</StockNumber>
+    <BaseThickness>101.6</BaseThickness>
+    <FinishedThickness>101.6</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>17.779999999999998</UpperCuThickness>
+    <LowerCuThickness>17.779999999999998</LowerCuThickness>
+    <ResinContent>0</ResinContent>
+    <Tg>100</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>Poly</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1>Free Text</Note1>
+    <Note2>Free Text</Note2>
+    <Note3>Free Text</Note3>
+    <Note4>Free Text</Note4>
+    <Note5>Any Format to denote Panel size</Note5>
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size />
+    <ID>1</ID>
+  </FlexyCores>
+  <File>
+    <Version>5.00</Version>
+  </File>
+</Dataset1>
